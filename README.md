@@ -9,7 +9,7 @@ Devices used;
 <p>* 7 segment, common cathode</p>
 <p>* 4 10k resistors</p>
 
-<image src="https://github.com/Chemutaiselim/Arduino_/blob/main/Time%20based%20Traffic%20lights%20system.PNG" alt="Proteus simulation">
+<image src="https://github.com/Chemutaiselim/Arduino_/blob/main/Button%20based.PNG" alt="Proteus simulation">
 
 ## Time based Traffic light system
 <p>Red, yellow and green LEDs light repetedly based on delays set to mimic traffic light</p> 
