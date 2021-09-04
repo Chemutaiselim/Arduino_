@@ -4,10 +4,11 @@
 
 <p>Has three buttons, for increment, decrement and restarting the numbers displayed in the 7 segment</p>
 Devices used;
-<p>* Arduino UNO</p>
-<p>* Three push buttons</l2>
-<p>* 7 segment, common cathode</p>
-<p>* 4 10k resistors</p>
+1. Arduino UNO 
+2. Three push buttons
+3. 7 segment, common cathode
+4. 4, 10k resistors 
+
 
 <image src="https://github.com/Chemutaiselim/Arduino_/blob/main/Button%20based.PNG" alt="Proteus simulation">
 
