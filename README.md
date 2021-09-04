@@ -2,7 +2,7 @@
  
  ## Button based Counter Using Arduino UNO 
 
-<p>Has three buttons, for increment, decrement and restarting the numbers displayed in the 7 segment</p>
+Has three buttons, for increment, decrement and restarting the numbers displayed in the 7 segment
 Devices used;
 1. Arduino UNO 
 2. Three push buttons
